@@ -1,0 +1,128 @@
+1.brand ta likchi
+/* serialy ja ja ja korechi 
+   2.ul tah banaichi
+   3.nav barer  */
+4.nav link niye kaj korchi 
+
+5.nav-item 
+
+6.dark2 shared
+
+7.dark3 shared
+
+8.bg-light shared
+
+9.bg-light bosalam headere
+10.navbar,banner max width//  margin eita buji nai
+
+11.brand er bitor font niye kaj korbo
+
+12.rem marar fhole vertically collaps korbe tai amra nav bar align center kore dibo
+
+13.banner titile.des. img niye aslam
+
+14.banner content banani er por h p and btn rekhe dilam
+
+15.banner container e maxwidth margin text align dilam
+
+16.banner title er font w eigtand size dilam
+
+17.btn-primary niye kaj korlam.padding
+
+18.shob gular modde content er mode margin buttom dilam
+
+19/banner img witdth 100 for responsive.
+
+20.media quri shob flex re aghe khot
+
+
+page-2
+section
+
+1.width kintu 140 mx with shared,margin  
+
+2.2div, feature title des
+
+3.img 4
+
+4.img feature flex align item
+
+5.section er modde 
+margin top shared
+
+6.feature img ,, margin , max of feature
+
+7.3 span in our feature
+
+8.span in title
+
+9.title style
+
+10.text-primary color
+reponsive--
+
+team flex,.
+container grid.
+our feature margin
+for maxium device media query
+flex direction column
+
+
+some facts.
+
+fact-caerd border
+fact container grid 
+column 4,1
+card-with height radius
+
+make new div and input img h4 h5
+
+card er children gulare ekta div er mode dhokhabho.
+
+erpor card k display flex
+
+fact-card--text center , align-items center, justify content center
+
+fact number font size 2.8 ram
+font wight 600
+margin top 5 margin buttom 10
+
+
+fact name-- size weight .margin top .
+
+
+fact descrioptin max w, 
+
+-------------------------------------------
+team img a facts container add korbo
+
+fact contai-- justify intem center 
+gap24px
+maje moodde disturv hoel bondho abar on korbo
+
+section our sponsor..............
+.spnsor info
+section-title
+text light grayp
+
+info max w 
+margin 50px autotect align center
+
+
+sponsor companies.
+ADD IMAGR
+
+sponsor companies grid tem col 5 1fr
+
+sponsor companiesimg  filter graysacle 100%
+
+team img container e boshai dhibho media quert the
+fact container , boshabho er por 
+sponsor comanyr jonno alda banabo
+
+
+mediuum re colum 2 1 fr 
+gap 50px
+etar shathe fact boshai dhibho
+
+justify-item center

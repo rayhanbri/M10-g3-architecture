@@ -57,6 +57,11 @@ main>section{
   
 }
 
+.section-title{
+  font-weight: 700;
+  font-size: 4rem;
+}
+
 
 
 /* navbar relater styles  */
@@ -102,10 +107,7 @@ main>section{
 
 }
 
-.banner-title{
-  font-weight: 700;
-  font-size: 4rem;
-}
+
 
 .banner-image{
   width: 100%;
@@ -139,6 +141,63 @@ main>section{
 #quick-list{
   font-weight: 500;
 }
+
+/* some facts related style  */
+
+.facts-container{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+ 
+
+
+
+
+}
+
+
+
+.fact-card{
+  border:1px solid #FF900E;
+  width: 240px;
+  height: 240px;
+  /* gap diye korle responsive korte gele nanan jamela.sob device er height tho ar same na . tai  eita korlam  */
+  border-radius: 8px;
+  
+}
+
+.section-title{
+  font-size: 56px;
+  font-weight: 700;
+}
+
+.fact-description{
+  max-width: 542px;
+}
+
+.fact-card{
+  justify-content: center;
+  align-items: center;
+}
+
+.fact-number{
+  font-size: 2.8rem;
+  font-weight: 600;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.fact-name{
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
 /* responsive media query  */
 @media  screen and (max-width:576px){
 
@@ -148,8 +207,13 @@ main>section{
     flex-direction: column;
   }
 
-  .team-img-container{
+  .team-img-container, .facts-container
+  {
     grid-template-columns: repeat(1,1fr);
+  }
+
+  .facts-container{
+    justify-items: center;
   }
   .our-features{
     margin-left: 20px;
@@ -163,7 +227,7 @@ main>section{
     flex-direction: column;
   }
   .our-features{
-    margin-left: 50px auto;
+    margin: 50px auto;
   }
 
 
