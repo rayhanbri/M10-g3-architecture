@@ -193,6 +193,31 @@ main>section{
 }
 
 
+/* our sponsor starts from here  */
+
+.sponsor-info{
+  max-width: 576px;
+  margin: 50px auto;
+  align-items: center;
+  text-align: center;
+  /* text align ta ami dorte pari nai   */
+}
+.sponsor-companies{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  width: 100%;
+ 
+   filter: grayscale(100%);
+  
+
+}
+
+
+
+
+
+
+
 
 
 
@@ -207,9 +232,16 @@ main>section{
     flex-direction: column;
   }
 
-  .team-img-container, .facts-container
+  .team-img-container, .facts-container,.sponsor-companies
   {
     grid-template-columns: repeat(1,1fr);
+  }
+
+  .sponsor-companies{
+    gap: 20px;
+    
+    justify-items: center; 
+  
   }
 
   .facts-container{
@@ -228,6 +260,13 @@ main>section{
   }
   .our-features{
     margin: 50px auto;
+  }
+
+  .sponsor-companies,.facts-container{
+    grid-template-columns: repeat(2,1fr);
+    justify-items: center;
+    gap: 50px;
+
   }
 
 
