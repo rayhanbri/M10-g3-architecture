@@ -126,3 +126,33 @@ gap 50px
 etar shathe fact boshai dhibho
 
 justify-item center
+
+----------------------------------------------------------------------
+Team er niche
+
+Sec features
+div 2 ta.
+
+H3 sec title br.  5.id border (border left 5px
+Padding left
+
+ P Descriptoon text light gray
+Comment container
+4..feature card
+H4
+P light gray
+
+6feature card. feature title fw 600, fsiz 1.25rem 
+Margin top 0 px  last
+Margin buttom 0px
+
+Feature card.
+padding 30 px 
+Box shadow.  0 4px 30px 0px rgba
+Margin bottom 20 px 
+Radoiuous 8
+
+features display flex, gap 140px)
+
+7. btn-primary (experience badge)
+/ span.experiemce year Duita // br.
